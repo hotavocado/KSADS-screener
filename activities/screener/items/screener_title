@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "screener_title",
+    "ui": {
+        "inputType": "static"
+    },
+    "question": "## Screener",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

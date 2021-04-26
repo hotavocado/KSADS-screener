@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS-screener/master/protocols/KSADS_screener/KSADS_screener_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "KSADS_screener_schema",
+    "skos:prefLabel": "Screener",
+    "schema:description": "Screener section for KSADS interview",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/KSADS-screener/master/protocols/KSADS_screener/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "screener",
+                "isAbout": "screener",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "screener"
+        ],
+        "shuffle": false
+    }
+}

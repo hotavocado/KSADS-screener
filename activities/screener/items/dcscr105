@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr105",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many times has this happened?",
+    "schema:description": "NUMBER OF TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

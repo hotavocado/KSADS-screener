@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr106",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What set it off?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

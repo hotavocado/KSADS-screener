@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr142",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Name of substance:",
+    "schema:description": "SUBSTANCE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

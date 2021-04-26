@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "cscr0",
+    "ui": {
+        "inputType": "static"
+    },
+    "question": "### Treatment\r\n\r\n_INTERVIEWER: Use timeline to date treatment, symptoms, etc._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

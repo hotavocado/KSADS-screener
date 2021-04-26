@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr097",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What is it?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

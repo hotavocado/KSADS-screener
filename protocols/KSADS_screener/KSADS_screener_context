@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-screener/master/activities/",
+        "screener": {
+            "@id": "activity_path:screener/screener_schema",
+            "@type": "@id"
+        }
+    }
+}

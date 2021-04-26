@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr150",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "### Other Disorders\r\n\r\nWas there ever a time when you or someone else thought you needed help or treatment for any problems we haven't discussed?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ],
+        "requiredValue": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr011",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "When and what happened that lead to you going to the hospital?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

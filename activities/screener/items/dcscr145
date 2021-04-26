@@ -1,0 +1,34 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr145",
+    "ui": {
+        "allow": [
+            "autoAdvance"
+        ],
+        "inputType": "radio"
+    },
+    "question": "### Tobacco\r\n\r\nHave you ever smoked a cigarette, cigar, pipe or other tobacco product, even a single puff?",
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": "No",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 1,
+                "schema:name": "Yes",
+                "@type": "schema:option"
+            },
+            {
+                "schema:value": 9,
+                "schema:name": "Unknown",
+                "@type": "schema:option"
+            }
+        ],
+        "requiredValue": ""
+    }
+}

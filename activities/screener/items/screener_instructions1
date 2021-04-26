@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "screener_instructions1",
+    "ui": {
+        "inputType": "static"
+    },
+    "question": "### Screening Probes\r\n\r\nI'm now going to ask you some more questions about your feelings, behavior and mood.",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

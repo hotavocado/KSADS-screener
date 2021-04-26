@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr006",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Who was it and why did you speak to them?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

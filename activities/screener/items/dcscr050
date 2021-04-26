@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr050",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "### Panic Disorder Course\r\n\r\nHow many of these attacks have you had?",
+    "schema:description": "NUMBER OF ATTACKS",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

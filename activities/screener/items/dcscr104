@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcscr104",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "If yes, what did you do?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}
